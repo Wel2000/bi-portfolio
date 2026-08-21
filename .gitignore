@@ -1,0 +1,7 @@
+*.pbix
+*.pbit
+__pycache__/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
